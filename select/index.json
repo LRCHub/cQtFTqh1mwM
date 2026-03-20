@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "FEEL.",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2026-03-20T22:15:17.120583Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel It Still",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/01_Feel_It_Still_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feel Your Heart",
+      "artist": "Protostar feat. Sam Tabor",
+      "has_synced": true,
+      "path": "select/02_Feel_Your_Heart_Protostar_feat._Sam_Tabor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feel Your Heart",
+      "artist": "Protostar, Sam Tabor",
+      "has_synced": true,
+      "path": "select/03_Feel_Your_Heart_Protostar,_Sam_Tabor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd feat. Daft Punk",
+      "has_synced": true,
+      "path": "select/04_I_Feel_It_Coming_The_Weeknd_feat._Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(When You Feel Like You're In Love) Don't Just Stand There",
+      "artist": "Carl Smith",
+      "has_synced": false,
+      "path": "select/05_(When_You_Feel_Like_You're_In_Love)_Don't_Just_Stand_There_Carl_Smith.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feel (feat. Karl Denson)",
+      "artist": "Nicki Bluhm feat. Karl Denson",
+      "has_synced": true,
+      "path": "select/06_Feel_(feat._Karl_Denson)_Nicki_Bluhm_feat._Karl_Denson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feel",
+      "artist": "Nicki Bluhm",
+      "has_synced": true,
+      "path": "select/07_Feel_Nicki_Bluhm.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feel For You",
+      "artist": "Boy Named Banjo",
+      "has_synced": true,
+      "path": "select/08_Feel_For_You_Boy_Named_Banjo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Feel It in the Morning",
+      "artist": "Rascal Flatts",
+      "has_synced": false,
+      "path": "select/09_Feel_It_in_the_Morning_Rascal_Flatts.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Feel Like This",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/10_Feel_Like_This_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feel That Fire",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/11_Feel_That_Fire_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How Your Love Makes Me Feel",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/12_How_Your_Love_Makes_Me_Feel_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "How Your Love Makes Me Feel",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/13_How_Your_Love_Makes_Me_Feel_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Can Still Feel You",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/14_I_Can_Still_Feel_You_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Can Still Feel You (Album Version)",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/15_I_Can_Still_Feel_You_(Album_Version)_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Feel Lucky",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/16_I_Feel_Lucky_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Feel Lucky (Album Version)",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": false,
+      "path": "select/17_I_Feel_Lucky_(Album_Version)_Mary_Chapin_Carpenter.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Feel Lucky (Album Version)",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": true,
+      "path": "select/18_I_Feel_Lucky_(Album_Version)_Mary_Chapin_Carpenter.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FEEL.",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_FEEL._Kendrick_Lamar.txt"
+    }
+  ]
+}
